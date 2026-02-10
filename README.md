@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=230&section=header&text=Hamed%20Khanaki&fontSize=44&fontColor=58a6ff&animation=fadeIn&fontAlignY=32&desc=Senior%20Software%20Engineer%20%7C%20FrontEnd%20Architect&descAlignY=52&descSize=18&descColor=8b949e" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=230&section=header&text=Hamed%20Khanaki&fontSize=44&fontColor=58a6ff&animation=fadeIn&fontAlignY=32&desc=Senior%20Software%20Engineer%20%7C%20Backend%20Architect&descAlignY=52&descSize=18&descColor=8b949e" width="100%" alt="Header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&height=45&lines=7%2B+Years+of+Building+Enterprise-Grade+Systems;Python+%26+Django+Expert+%E2%80%A2+REST+API+Architect;I+Don't+Just+Write+Code+%E2%80%94+I+Design+Scalable+Systems;Available+for+Freelance+%26+Consulting+Engagements" alt="Typing SVG" />
@@ -50,11 +50,11 @@ private and enterprise repositories.
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=HamedKh99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff" width="100%" alt="GitHub Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HamedKh99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff" width="100%" height="195" alt="GitHub Stats" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=HamedKh99&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=58a6ff&sideNums=58a6ff" width="100%" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=HamedKh99&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=58a6ff&sideNums=58a6ff" width="100%" height="195" alt="GitHub Streak" />
 
 </td>
   </tr>
@@ -121,7 +121,7 @@ private and enterprise repositories.
       <h3 align="center">Market Pulse PWA</h3>
       <div align="center">
         <a href="https://github.com/HamedKh99/market-pulse-pwa">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=HamedKh99&repo=market-pulse-pwa&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" width="100%" alt="market-pulse-pwa" />
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=HamedKh99&repo=market-pulse-pwa&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" width="100%" alt="market-pulse-pwa" />
         </a>
         <br/>
         <sub><b>Next.js 16 · React 19 · Web Workers · WebSockets</b></sub>
@@ -133,7 +133,7 @@ private and enterprise repositories.
       <h3 align="center">Enterprise Boilerplate</h3>
       <div align="center">
         <a href="https://github.com/HamedKh99/next-enterprise-boilerplate">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=HamedKh99&repo=next-enterprise-boilerplate&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" width="100%" alt="next-enterprise-boilerplate" />
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=HamedKh99&repo=next-enterprise-boilerplate&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" width="100%" alt="next-enterprise-boilerplate" />
         </a>
         <br/>
         <sub><b>Next.js 16.1 · DDD · Server Actions · PPR</b></sub>
@@ -147,7 +147,7 @@ private and enterprise repositories.
       <h3 align="center">Web3 Dashboard UI Kit</h3>
       <div align="center">
         <a href="https://github.com/HamedKh99/web3-dashboard-ui-kit">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=HamedKh99&repo=web3-dashboard-ui-kit&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" width="100%" alt="web3-dashboard-ui-kit" />
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=HamedKh99&repo=web3-dashboard-ui-kit&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" width="100%" alt="web3-dashboard-ui-kit" />
         </a>
         <br/>
         <sub><b>Next.js 16 · Tailwind v4 · Framer Motion · Zustand</b></sub>
@@ -163,7 +163,7 @@ private and enterprise repositories.
         <br/><br/>
         <sub>I take on select <b>freelance & consulting</b> projects.<br/>Specialized in backend architecture, API design,<br/>and full-stack product delivery.</sub>
         <br/><br/>
-        <a href="mailto:<!-- YOUR EMAIL -->">
+        <a href="mailto:hamedkhanaki91@gmail.com">
           <img src="https://img.shields.io/badge/Let's%20Talk-58a6ff?style=for-the-badge&logoColor=white" alt="Contact" />
         </a>
       </div>
@@ -188,15 +188,11 @@ private and enterprise repositories.
 
 <br/>
 
-<a href="mailto:<!-- YOUR EMAIL -->">
+<a href="mailto:hamedkhanaki91@gmail.com">
   <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff" alt="Email" />
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/<!-- YOUR LINKEDIN -->">
-  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="https://t.me/<!-- YOUR TELEGRAM -->">
+<a href="https://t.me/hamedkhanaki_dev">
   <img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=58a6ff" alt="Telegram" />
 </a>
 
