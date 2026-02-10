@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=230&section=header&text=Hamed%20Khanaki&fontSize=44&fontColor=58a6ff&animation=fadeIn&fontAlignY=32&desc=Senior%20Software%20Engineer&descAlignY=52&descSize=18&descColor=8b949e" width="100%" alt="Header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&height=45&lines=7%2B+Years+of+Building+Enterprise-Grade+Systems;Python+%26+Django+Expert+%E2%80%A2+REST+API+Architect;I+Don't+Just+Write+Code+%E2%80%94+I+Design+Scalable+Systems;Available+for+Freelance+%26+Consulting+Engagements" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&height=45&lines=7%2B+Years+of+Building+Enterprise-Grade+Systems;React+%26+Next.js+Expert+%E2%80%A2+REST+API+Architect;I+Don't+Just+Write+Code+%E2%80%94+I+Design+Scalable+Systems;Available+for+Freelance+%26+Consulting+Engagements" alt="Typing SVG" />
 </a>
 
 <br/>
