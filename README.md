@@ -23,27 +23,20 @@
   <tr>
     <td width="55%" valign="top">
 
-<h3>About Me</h3>
+### 👨‍💻 About Me
 
-Senior Software Engineer with **7+ years** of hands-on experience designing,
-building, and scaling enterprise-grade applications.
+**Senior Software Engineer** with **7+ years** of experience specializing in **Modern Frontend Architecture** and User Interface Engineering.
 
-My core expertise is in **backend architecture** — from RESTful API design and
-database optimization to distributed system patterns. I approach every project
-with an architect's mindset: **scalability, maintainability, and performance**
-are non-negotiable.
+My core expertise lies in the **JavaScript ecosystem (React)**—building performant, accessible, and scalable UI systems. I don't just implement designs; I architect **component libraries** and **state management strategies** that allow enterprise applications to grow without technical debt.
 
-My public repositories showcase my **full-stack capability**, proving I can own
-a product end-to-end — from system design to production-ready frontends. My
-professional backend work (Python, Django, complex API ecosystems) lives in
-private and enterprise repositories.
+While my focus is the Frontend, my background in **Backend (Python/Django)** allows me to bridge the gap between design and server-side logic, ensuring seamless API integration and data flow.
 
 **What I deliver:**
+*   ✨ **Complex UI/UX Implementation:** Pixel-perfect translation of design to code.
+*   ⚡ **Performance Optimization:** Focusing on Core Web Vitals and rendering efficiency.
+*   🏗️ **Scalable Architecture:** Modular component design & robust state management.
+*   🔌 **Full-Stack Fluency:** Seamless integration with REST APIs and Backend logic.
 
-&nbsp;&nbsp;&bull;&nbsp; Scalable REST API & microservice architectures<br/>
-&nbsp;&nbsp;&bull;&nbsp; Database modeling & query optimization<br/>
-&nbsp;&nbsp;&bull;&nbsp; Containerized, CI/CD-ready deployments<br/>
-&nbsp;&nbsp;&bull;&nbsp; End-to-end product engineering
 
 </td>
 <td width="45%" valign="top" align="center">
