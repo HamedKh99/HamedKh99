@@ -73,10 +73,10 @@ private and enterprise repositories.
 <table>
   <tr>
     <td align="center" width="50%">
-      <h4>Core — Backend & Architecture</h4>
-      <img src="https://skillicons.dev/icons?i=python,django,postgres,redis&theme=dark" alt="Backend" />
+      <h4>Core - Frontend & UI</h4>
+      <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,bootstrap&theme=dark" alt="Frontend" />
       <br/><br/>
-      <code>Python</code> · <code>Django</code> · <code>REST APIs</code> · <code>System Design</code>
+      <code>JavaScript</code> · <code>TypeScript</code> · <code>React</code> · <code>Next.js</code>
     </td>
     <td align="center" width="50%">
       <h4>Infrastructure & Data</h4>
@@ -87,10 +87,10 @@ private and enterprise repositories.
   </tr>
   <tr>
     <td align="center" width="50%">
-      <h4>Frontend & UI</h4>
-      <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,bootstrap&theme=dark" alt="Frontend" />
+      <h4>Backend & Architecture</h4>
+      <img src="https://skillicons.dev/icons?i=python,django,postgres,redis&theme=dark" alt="Backend" />
       <br/><br/>
-      <code>JavaScript</code> · <code>TypeScript</code> · <code>React</code> · <code>Next.js</code>
+      <code>Python</code> · <code>Django</code> · <code>REST APIs</code> · <code>System Design</code>
     </td>
     <td align="center" width="50%">
       <h4>Tools & Workflow</h4>
