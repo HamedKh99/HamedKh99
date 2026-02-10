@@ -176,7 +176,7 @@ While my focus is the Frontend, my background in **Backend (Python/Django)** all
 
 <p>
   I'm available for <strong>freelance projects</strong> and <strong>consulting engagements</strong>.<br/>
-  Backend architecture, API design, full-stack MVPs, or technical audits — let's talk.
+  Frontend architecture, API design, full-stack MVPs, or technical audits — let's talk.
 </p>
 
 <br/>
